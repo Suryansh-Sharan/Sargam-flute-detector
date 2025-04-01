@@ -1,4 +1,4 @@
-const URL = "https://teachablemachine.withgoogle.com/models/l7ZfPCPgC/";  // Your provided model link
+const URL = "https://teachablemachine.withgoogle.com/models/l7ZfPCPgC/";
 
 let recognizer;
 
